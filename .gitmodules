@@ -1,3 +1,6 @@
 [submodule "springbootlearning"]
 	path = springbootlearning
 	url = https://github.com/udayyadu451/springbootlearning.git
+[submodule "discoveryservice"]
+	path = discoveryservice
+	url = https://github.com/udayyadu451/discoveryservice.git
