@@ -1,0 +1,50 @@
+# Ignore generated files
+*~
+*.log
+*.iml
+*.ipr
+*.iws
+*_IS_UNDEFINED
+
+# Ignore hidden files, but not .gitignore
+.*
+!.gitignore
+!.babelrc
+!.browserslistrc
+!.eslintignore
+!.stylelintignore
+!.editorconfig
+
+!.eslintrc.js
+!.stylelintrc.js
+!.postcssrc.js
+!.browsersyncrc.js
+
+# Ignore large files to prevent accidental additions
+*.bin
+*.bmp
+*.exe
+*.gif
+*.jar
+*.jpg
+*.png
+*.psd
+*.tar*
+*.zip
+
+
+# Ignore output folders
+bin
+build
+emit
+logs
+node_modules
+out
+tmp
+webapps/*/src/test/js/vendor/
+target
+
+
+# Ignore Gradle files
+gradle-app.setting
+
