@@ -1,2 +1,2 @@
-# springboot-monorepo
+# springbootmonorepo
 monorepo
