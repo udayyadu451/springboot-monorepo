@@ -1,0 +1,3 @@
+[submodule "springbootlearning"]
+	path = springbootlearning
+	url = https://github.com/udayyadu451/springbootlearning.git
