@@ -4,3 +4,6 @@
 [submodule "discoveryservice"]
 	path = discoveryservice
 	url = https://github.com/udayyadu451/discoveryservice.git
+[submodule "residentservice"]
+	path = residentservice
+	url = https://github.com/udayyadu451/residentservice.git
